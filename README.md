@@ -29,7 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Attempting to use the latest version of Apache's Commons Library (2.8) led to loading errors, but using version 2.6 was fine. There was also trouble signing into my Github account on Android Studio using my credentials, so I had to use an authorization token.
 
 ## License
 
